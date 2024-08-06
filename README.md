@@ -14,4 +14,4 @@ The task at hand is to build a Convolutional Neural Network(CNN) model to automa
 - Image Recognition Inference using a deep learning neural network trained Model
 - Simple App Demo
 
-- ![Machu Picchu](https://github.com/user-attachments/assets/6424d579-12ad-433f-99dd-b27b3350f171)
+![Machu Picchu](https://github.com/user-attachments/assets/6424d579-12ad-433f-99dd-b27b3350f171)
